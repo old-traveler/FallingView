@@ -23,6 +23,7 @@ Step 2. Add the dependency
 	        compile 'com.github.hyc875224980:FallingView:v1.0.0'
 	}
 
+
 How to Use ?
 
     <com.falling.view.FallingView
