@@ -64,3 +64,5 @@ How to Use ?
     public void setDropTime(int dropTime) {
         this.dropTime = dropTime;
     }
+
+    ![img]http://img.ivsky.com/img/tupian/slides/201612/12/qingrenjie_meigui_liwu-004.jpg
