@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.falling.MainActivity">
+
+    <ImageView
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_ice"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    <com.falling.view.FallingView
+        app:falling="@drawable/snow_flake"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</RelativeLayout>
