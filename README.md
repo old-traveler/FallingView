@@ -3,6 +3,8 @@ An interface can be added to the falling objects View
 
 You can import it into your project
 
+![img](https://github.com/hyc875224980/FallingView/blob/master/img/device-2017-05-06-202800~2.gif)
+
 
 Add it in your root build.gradle at the end of repositories:
 
