@@ -22,7 +22,7 @@ Step 1. Add the statement
 Step 2. Add the dependency
 
 	dependencies {
-	        compile 'com.github.hyc875224980:FallingView:v1.0.0'
+	        compile 'com.github.old-traveler:FallingView:v1.0.0'
 	}
 
 
